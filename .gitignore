@@ -1,0 +1,13 @@
+.sonarqube/
+.vs/
+
+bin/
+obj
+*.csproj.user
+*.vcxproj.user
+*.vcxproj.filters
+
+some_directory/
+x64
+
+build-wrapper-win-x86-64.exe
